@@ -63,3 +63,10 @@ export const InputTitle = styled.span`
     color: black;
     margin-bottom: 5px;
 `;
+
+export const ValidationError = styled.div`
+    max-width: 300px;
+    text-align: center;
+    color: red;
+    font-size: 12px;
+`;
